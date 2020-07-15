@@ -1,5 +1,6 @@
 # To shoot or not to shoot?: An Exploratory Data Analysis into trends of police shootings from 2015-2020.
 
+![cover pic](https://github.com/aclao89/Police_Shootings/blob/master/Images/readme_cover.jpg)
 ## ABSTRACT
 
 In 2015, The Washington Post began tracking more than a dozen details about each killing — including the race of the deceased, the circumstances of the shooting, whether the person was armed and whether the victim was experiencing a mental-health crisis — by pulling local news reports, law enforcement websites and social media and by monitoring independent databases such as [Killed by Police](https://killedbypolice.net/) and [Fatal Encounters](https://fatalencounters.org/).
@@ -22,12 +23,25 @@ In hopes to be more informed on this matter, I would like to investigate:
 
 ## METHODS
 
-# Datasets
+### Datasets
 
 1. [Police Killing](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) - a database maintained by the Washington Post
 
 2. [State Demographic Population](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html) - US Census data regarding racial demographic on US total population
 
-3. [Race Population by City](https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us) - US Census data regarding racial demographic in all US cities.
+3. [Race Population by City](https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us) - US Census data regarding racial demographic in all US cities
 
-4. [Below Poverty Level](https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us) - US Census data regarding percentage of people under the poverty level.
+4. [Below Poverty Level](https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us) - US Census data regarding percentage of people under the poverty level
+
+### Libraries Used
+
+1. Plotly - Python graphic library for interactive charts and maps
+
+2. Matplotlib - A comprehensive library for creating static, animated, and interactive visualizations in Python
+
+3. Folium -  Python library that helps you create several types of Leaflet maps
+
+4. Pandas - An open source data analysis and manipulation tool, built on top of the Python programming language
+
+
+## Data Analysis
