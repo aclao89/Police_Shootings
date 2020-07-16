@@ -146,7 +146,7 @@ Mississippi has the second highest African American population behind Washington
 
 ![blackshot](https://github.com/aclao89/Police_Shootings/blob/master/Images/blacks_shot.png)
 
-- California, Texas and Florida has recorded most black people deaths.
+- California, Texas and Florida has recorded most African Americans.
 - There are more darker side on East side of US too. Perhaps those East Coast States have a higher African American population.
 - Annually, the police kill an average of 212 African Americans every year.
 
