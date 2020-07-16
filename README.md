@@ -95,9 +95,69 @@ January, February and March have recorded most cases, averaging well over 400 pe
 ![calendar map](https://github.com/aclao89/Police_Shootings/blob/master/Images/calheatmap.jpg)
 
 
-### Manner of Death
+### Manner of death
 ![piechart](https://github.com/aclao89/Police_Shootings/blob/master/Images/pie_shot_taser.png)
 
 According to this [policy](https://www.aclu.org/sites/default/files/field_document/30099-30102%20Taser%20policy.pdf), the primary purpose for employing the Taser is to protect human lives and prevent injury to officers and citizens. Since it's less lethal, we can assume that a taser was deployed as a first sign of warning toward the aggressor. Only 5% of cases had a taser deployed then subsequently shot. On the contrary, 95% of cases were just shot.
 
-This calls into question on police tactics and funding. This metric can be used to formulate mandatory tactical self-defense skill as a less-lethal approach to subdue/deescalate situations to reduce deaths. 
+This calls into question on police tactics and funding. This metric can be used to formulate mandatory tactical self-defense skill as a less-lethal approach to subdue/deescalate situations to reduce deaths.
+
+
+### Manner of death by race
+
+![shot and tasered](https://github.com/aclao89/Police_Shootings/blob/master/Images/shot_taser.jpg)
+
+No significant difference among the racial groups. Since only 5% were tasered and shot, it seems evenly distributed amongst the groups.
+
+### Weapon by race
+
+![weapons](https://github.com/aclao89/Police_Shootings/blob/master/Images/weapon_by_race.jpg)
+
+Obviously, a gun is a commonly used weapon and also considered an immediate threat to law enforcement. However, unarmed African Americans are shot at
+a higher rate than any other race. One might argue that unarmed does not equate to less threat which is true. This call into question regarding police accurately assessing threat levels and tactics to subdue the perp instead of killing.
+
+
+### Deaths of each race
+![death race](https://github.com/aclao89/Police_Shootings/blob/master/Images/race_deaths.png)
+
+
+- Percent of Whites Killed: 52%
+- Percent of Blacks Killed: 26%
+- Percent of Asians Killed: 2%
+- Percent of Hispanics Killed: 18%
+- Percent of Native Americans Killed: 2%
+
+![us_total_demo](https://github.com/aclao89/Police_Shootings/blob/master/Images/us_demo_pop.png)
+
+At first glance, Whites were shot at an astonishing rate of 51%. However, this should be taken with a grain of salt since White Americans comprise two-thirds of the US total population. African Americans, however, account for 26% of those fatally shot and killed by the police despite being just 12% of the U.S. population.
+
+### Poverty of each state
+![poverty state](https://github.com/aclao89/Police_Shootings/blob/master/Images/poverty_state.jpg)
+
+Twenty five of the population of Mississippi and Arizona are below the poverty rate.
+
+### Demographic percentage of each state
+![demo_state](https://github.com/aclao89/Police_Shootings/blob/master/Images/demographic_state.jpg)
+
+Mississippi has the second highest African American population behind Washington DC. Crime and poverty are often correlated; One way poverty causes crime is the way most people think of it: Some people in desperate need of money commit crimes.
+
+
+### African Americans killed by the police: Age, frequency, and map
+
+![blackshot](https://github.com/aclao89/Police_Shootings/blob/master/Images/blacks_shot.png)
+
+- California, Texas and Florida has recorded most black people deaths.
+- There are more darker side on East side of US too. Perhaps those East Coast States have a higher African American population.
+- Annually, the police kill an average of 212 African Americans every year.
+
+- Sadly, there are 109 minors (10-19) who have been victims.
+- Montana, Wyoming, and North/South Dakotas were the only states with no reported deaths.
+- Most of the victims were between 20-40 years old. It seems younger African Americans are targeted compared to the average age of Caucasians (30-50 years old).
+
+### Caucasians killed by the police: Age, frequency, and map
+
+![white shot](https://github.com/aclao89/Police_Shootings/blob/master/Images/white_shot.png)
+
+- Since White American comprise nearly 66% of the US total population, they have a higher chance of being shot due to the sheer difference in population.
+- California, Texas, and Florida have higher rates, possibly due to the size and density of each state.
+- Most victims were between 30-50 years old.
