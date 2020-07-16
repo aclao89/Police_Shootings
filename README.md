@@ -44,4 +44,60 @@ In hopes to be more informed on this matter, I would like to investigate:
 4. Pandas - An open source data analysis and manipulation tool, built on top of the Python programming language
 
 
+## Data Cleaning
+
+Rows: 5416
+Columns: 13
+
+df.info()
+
+Data columns (total 13 columns):
+name                       5416 non-null object
+date                       5416 non-null object
+manner_of_death            5416 non-null object
+armed                      5189 non-null object
+age                        5181 non-null float64
+gender                     5414 non-null object
+race                       4895 non-null object
+city                       5416 non-null object
+state                      5416 non-null object
+signs_of_mental_illness    5416 non-null bool
+threat_level               5416 non-null object
+flee                       5167 non-null object
+body_camera                5416 non-null bool
+dtypes: bool(2), float64(1), object(10)
+
+Given the current climate on police brutality, it's concerning that race has the most null values. This further compounds the fact law enforcement agencies are purposely hiding race to deflate actual data trends. Since each column with null values is less than 10% then we can continue with dropping those rows since it wont significantly impact the analysis.
+
+![missing matrix](https://github.com/aclao89/Police_Shootings/blob/master/Images/missinginfo.jpg)
+
+After dropping all rows with NaN values:
+
+Rows: 4399
+
 ## Data Analysis
+
+### Yearly victims in police shootings
+![year deaths](https://github.com/aclao89/Police_Shootings/blob/master/Images/yearly_count.png)
+
+This graph shows that the rate of killing per year has never looked down except 2016.
+It has an average of 983 per year. Almost 1000 people are killed every year.
+We are in mid of 2020 and we have already reached 432 death counts as of now. Will this year also be the same story as before?
+
+
+### Cumulative deaths per month from 2015 to 2020.
+![monthly deaths](https://github.com/aclao89/Police_Shootings/blob/master/Images/deaths_per_month.jpg)
+
+January, February and March have recorded most cases, averaging well over 400 per month. That is approximately 13 deaths every day! :(
+
+
+### Calendar Heat Map to see the distribution of shootings over the span from 2015 to 2020.
+![calendar map](https://github.com/aclao89/Police_Shootings/blob/master/Images/calheatmap.jpg)
+
+
+### Manner of Death
+![piechart](https://github.com/aclao89/Police_Shootings/blob/master/Images/pie_shot_taser.png)
+
+According to this [policy](https://www.aclu.org/sites/default/files/field_document/30099-30102%20Taser%20policy.pdf), the primary purpose for employing the Taser is to protect human lives and prevent injury to officers and citizens. Since it's less lethal, we can assume that a taser was deployed as a first sign of warning toward the aggressor. Only 5% of cases had a taser deployed then subsequently shot. On the contrary, 95% of cases were just shot.
+
+This calls into question on police tactics and funding. This metric can be used to formulate mandatory tactical self-defense skill as a less-lethal approach to subdue/deescalate situations to reduce deaths. 
