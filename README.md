@@ -95,6 +95,12 @@ January, February and March have recorded most cases, averaging well over 400 pe
 ![calendar map](https://github.com/aclao89/Police_Shootings/blob/master/Images/calheatmap.jpg)
 
 
+### Body Cameras
+![body cam](https://github.com/aclao89/Police_Shootings/blob/master/Images/body_cameras.png)
+Due to the 2014 slaying of Michael Brown, the Department of Justice launched a campaign to increase police accountability through body cameras. However, the data tells a different story; more than 85% of cases per year had no body cameras to documentation and accountability. This needs immediate change since law enforcement are suppose to serve and protect while providing transparency around its actions and tactics. The lack of body cameras is astounding and provides the need of police accountability and restructuring to ensure transparency. If the police is abiding by trained tactics and conduct, then they should have nothing to hide from a body camera. 
+
+In 2014, [researchers at Arizona State University](https://nij.ojp.gov/topics/articles/body-worn-cameras-what-evidence-tells-us#noteReference7) (funded through the Bureau of Justice Assistance’s Smart Policing Initiative) found that officers with body-worn cameras were more productive in terms of making arrests, had fewer complaints lodged against them relative to officers without body-worn cameras, and had higher numbers of citizen complaints resolved in their favor.
+
 ### Manner of death
 ![piechart](https://github.com/aclao89/Police_Shootings/blob/master/Images/pie_shot_taser.png)
 
